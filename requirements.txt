@@ -1,0 +1,6 @@
+google-generativeai==0.8.3  # Для Gemini API
+python-gitlab==4.13.0       # Для интеграции с GitLab
+flask==3.0.3                # Для webhook-сервера
+streamlit==1.39.0           # Для UI
+requests==2.32.3            # Для HTTP-запросов
+python-dotenv==1.0.1        # Для загрузки .env (опционально, добавьте если нужно)
